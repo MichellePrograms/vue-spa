@@ -3,4 +3,4 @@
 
 [![Azure Vue SPA](https://vue-spa.azurewebsites.net/category/mobile)](https://vue-spa.azurewebsites.net/category/mobile)
 
-Udemy
+https://app.pluralsight.com/library/courses/vue-js-single-page-applications/discussion
